@@ -1,0 +1,2 @@
+# Super-market-Backend
+Make the backend for a supermarket in Node.js. + MySQL with the following APIs: 1 - Add a product 2 - Delete a product 3 - Update a product 4 - reads a qr code hash and fetch a product 5 - Takes a cart and generates a csv/pdf bill for a single purchase(Make provisions for a PROMO code as well) 6 - Based on the total purchase of 1 day calculate the total profit for the same day
